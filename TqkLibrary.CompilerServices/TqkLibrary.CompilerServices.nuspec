@@ -4,7 +4,7 @@
 	<metadata>
 		<id>TqkLibrary.CompilerServices</id>
 		<version>1.0.0.0</version>
-		<description>add compiler services for </description>
+		<description>add 'missing' compiler services for some old frameworks</description>
 		<authors>tqk2811</authors>
 		<projectUrl>https://github.com/tqk2811/TqkLibrary.CompilerServices</projectUrl>
 		<repository type="git" url="https://github.com/tqk2811/TqkLibrary.CompilerServices.git"/>
