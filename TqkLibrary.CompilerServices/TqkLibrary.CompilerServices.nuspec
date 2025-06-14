@@ -14,7 +14,7 @@
 		</dependencies>
 	</metadata>
 	<files>
-		<file src="..\README.MD" target="docs\" />
+		<file src="..\README.md" target="docs\" />
 		<file src="TqkLibrary.CompilerServices.props" target="build\" />
 		<file src="*.cs" target="src\" />
 	</files>
