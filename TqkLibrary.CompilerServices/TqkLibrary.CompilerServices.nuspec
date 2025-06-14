@@ -9,7 +9,7 @@
 		<projectUrl>https://github.com/tqk2811/TqkLibrary.CompilerServices</projectUrl>
 		<repository type="git" url="https://github.com/tqk2811/TqkLibrary.CompilerServices.git"/>
 		<license type="expression">MIT</license>
-		<readme>docs\README.MD</readme>
+		<readme>docs\README.md</readme>
 		<dependencies>
 		</dependencies>
 	</metadata>
