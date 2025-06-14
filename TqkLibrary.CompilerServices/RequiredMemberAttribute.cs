@@ -1,5 +1,6 @@
 ﻿#if !NET6_0_OR_GREATER
 #pragma warning disable
+using System;
 namespace System.Runtime.CompilerServices
 {
     [AttributeUsage(AttributeTargets.All, Inherited = false, AllowMultiple = false)]
