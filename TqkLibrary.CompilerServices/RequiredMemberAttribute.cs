@@ -1,10 +1,11 @@
 ﻿#if !NET6_0_OR_GREATER
 #pragma warning disable
-using System;
 namespace System.Runtime.CompilerServices
 {
-    [AttributeUsage(AttributeTargets.All, Inherited = false, AllowMultiple = false)]
-    internal sealed class RequiredMemberAttribute : Attribute { }
+    [System.AttributeUsage(System.AttributeTargets.All, Inherited = false, AllowMultiple = false)]
+    internal sealed class RequiredMemberAttribute : System.Attribute
+    {
+    }
 }
 #pragma warning enable
 #endif
