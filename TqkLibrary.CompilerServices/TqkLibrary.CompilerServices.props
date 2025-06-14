@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
 	<ItemGroup>
-		<Compile Include="$(MSBuildThisFileDirectory)..\src\IsExternalInit.cs" Visible="false" />
-		<Compile Include="$(MSBuildThisFileDirectory)..\src\CompilerFeatureRequiredAttribute.cs" Visible="false" />
-		<Compile Include="$(MSBuildThisFileDirectory)..\src\RequiredMemberAttribute.cs" Visible="false" />
+		<Compile Include="$(MSBuildThisFileDirectory)..\src\*.cs" Visible="false" />
 	</ItemGroup>
 </Project>
