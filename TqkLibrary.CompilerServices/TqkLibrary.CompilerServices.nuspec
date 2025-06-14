@@ -9,10 +9,12 @@
 		<projectUrl>https://github.com/tqk2811/TqkLibrary.CompilerServices</projectUrl>
 		<repository type="git" url="https://github.com/tqk2811/TqkLibrary.CompilerServices.git"/>
 		<license type="expression">MIT</license>
+		<readme>docs\README.MD</readme>
 		<dependencies>
 		</dependencies>
 	</metadata>
 	<files>
+		<file src="..\README.MD" target="docs\" />
 		<file src="TqkLibrary.CompilerServices.props" target="build\" />
 		<file src="*.cs" target="src\" />
 	</files>
